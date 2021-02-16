@@ -1,4 +1,4 @@
-# Analysing NYC High School data
+# Apache Spark (TM) SQL for Data Analysis
 
 Curso Apache Spark (TM) SQL for Data Analysis oferecido pela empresa Databricks no Coursera. 
 
